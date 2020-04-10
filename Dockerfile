@@ -1,4 +1,4 @@
-FROM golang:1.14.1-buster
+FROM golang:1.14.2-buster
 
 ARG DEBIAN_FRONTEND=noninteractive
 ARG IMAGEMAGICK_VERSION=7.0.9-27
